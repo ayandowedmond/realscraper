@@ -1,0 +1,25 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Build output
+styles.css
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other
+dist/
+build/
